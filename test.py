@@ -1,5 +1,0 @@
-print("este es master")
-print("_"*50)
-print("hola2")
-print("_"*50)
-print("hola2")
